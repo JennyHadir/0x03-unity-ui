@@ -1,0 +1,50 @@
+[api-updater (non-obsolete-error-filter)] 05/08/2021 21:58:58 : Starting C:/Program Files/Unity/2020.3.12f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 14687,6685ms
+moved types parse time: 543ms
+candidates parse time : 5ms
+C# parse time         : 3241ms
+candidates check time : 136ms
+console write time    : 100ms
+
+[api-updater (non-obsolete-error-filter)] 14/08/2021 16:30:57 : Starting C:/Program Files/Unity/2020.3.12f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 22407,7895ms
+moved types parse time: 785ms
+candidates parse time : 3ms
+C# parse time         : 9033ms
+candidates check time : 633ms
+console write time    : 65ms
+
+[api-updater (non-obsolete-error-filter)] 14/08/2021 17:11:06 : Starting C:/Program Files/Unity/2020.3.12f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 3313,3761ms
+moved types parse time: 282ms
+candidates parse time : 89ms
+C# parse time         : 1208ms
+candidates check time : 102ms
+console write time    : 14ms
+
+[api-updater (non-obsolete-error-filter)] 15/08/2021 21:32:32 : Starting C:/Program Files/Unity/2020.3.12f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 6951,1982ms
+moved types parse time: 204ms
+candidates parse time : 92ms
+C# parse time         : 1189ms
+candidates check time : 88ms
+console write time    : 9ms
+
+[api-updater (non-obsolete-error-filter)] 15/08/2021 22:23:44 : Starting C:/Program Files/Unity/2020.3.12f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 985,5711ms
+moved types parse time: 112ms
+candidates parse time : 2ms
+C# parse time         : 387ms
+candidates check time : 55ms
+console write time    : 0ms
+
