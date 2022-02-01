@@ -35,4 +35,4 @@ I'm a Software Engineer and a current AR/VR engineering student at Holberton Sch
 ### Contact Me
 [![Github URL](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JennyHadir/)
 [![Linkedin URL](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hadir-jenni-9813791b6/)
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40HadirJenni)](https://twitter.com/HadirJenni)
+[![Twitter URL](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/HadirJenni)
