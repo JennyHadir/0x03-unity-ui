@@ -1,4 +1,5 @@
-# 0x02. Unity - UI
+# 0x03. Unity - UI
+![alt text](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-cs-unity/422/5.gif)
 ## Description
 This project is about building components for a maze, adding new GameObjects and scripts to make a playable game. If you want to play it, go to https://github.com/JennyHadir/0x03-unity-ui .
 
