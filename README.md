@@ -33,6 +33,6 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 ## About Me
 I'm a Software Engineer and a current AR/VR engineering student at Holberton School.
 ### Contact Me
-[Github](https://github.com/JennyHadir/)
+[![Github URL](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JennyHadir/)
 [![Linkedin URL](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hadir-jenni-9813791b6/)
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40HadirJenni)](https://twitter.com/HadirJenni)
